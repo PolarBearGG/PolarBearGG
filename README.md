@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there, I'm Vitaliy 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
-  <br><img src="https://dhmstudio.com/wp-content/uploads/2020/05/web-developer.gif" width="450px"><br><br>
+  <br><img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="450px"><br><br>
   <samp> I'm a Technical Assistants from Ternopil, UA. Wanna be a JavaScript developer.
   </samp>
   <br>
@@ -36,5 +36,5 @@
 
 <hr>
 <p align="center">
-<img src="https://www.coredna.com/web_images/What-is-Git.gif" height="150px align="middle""/>
+<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/What-is-Git.gif" height="150px align="middle""/>
   </p>
