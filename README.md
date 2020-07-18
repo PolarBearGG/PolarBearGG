@@ -6,13 +6,9 @@
   </samp>
   <br>
 
-</p>
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=PolarBearGG.PolarBearGG"></a>
-</p>
-
 <hr>
 <h3  align='center'>Find me around the web 🌎 </h3>
+<br>
 <p align='center'>
   <a href="https://t.me/noir00"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/noir00/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,6 +27,10 @@
 </p>
 
 <hr>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=PolarBearGG.PolarBearGG"></a>
+</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/What-is-Git.gif" height="150px align="middle""/>
   </p>
