@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="450px"><br><br>
-  <samp> I'm a Technical Engineer from Ternopil, UA.
+  <samp> I'm a BI Data Miner from Brody, UA.
   </samp>
   <br>
 
