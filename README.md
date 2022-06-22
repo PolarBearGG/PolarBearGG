@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there, I'm Vitaliy 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
-  <br><img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="450px"><br><br>
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/I_stand_with_Ukraine_banner.svg/2560px-I_stand_with_Ukraine_banner.svg.png" width="450px"><br><br>
   <samp> I'm a BI Data Miner from Brody, UA.
   </samp>
   <br>
